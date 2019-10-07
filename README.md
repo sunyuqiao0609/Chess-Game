@@ -1,0 +1,2 @@
+# Chess-Game
+The gaming implementation consists two level of difficulties for the graphical interface and computer AI using X11. It can implement all three of Human vs Human, Human vs Computer and Computer vs Computer. All functionality from assignment guideline can be implemented except castling, promotion and level 4 computer implementation. Below, we will talk about our design thoughts and attach some documentations as instruction for playing our games.    
